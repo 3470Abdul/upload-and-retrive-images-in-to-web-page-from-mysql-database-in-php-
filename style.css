@@ -1,0 +1,22 @@
+.images-table{
+    width: 1000px;
+    height: fit-content;
+    margin-top: 40px;
+    margin-left: 200px;
+}
+
+
+.images-heading{
+    color: white !important;
+    text-align: center;
+    background-color: grey !important;
+}
+
+.th-content{
+    text-align: center;
+}
+
+
+.th-content-id{
+    margin-top: 80px !important;
+}
